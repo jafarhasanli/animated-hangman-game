@@ -36,6 +36,15 @@ The game selects a random word from a predefined word list and updates the inter
 
 ---
 
+## 🎮 Play the Game Online
+
+You can play the game directly in your browser without downloading anything:
+
+👉 **[Click here to play animated hangman game](https://jafarhasanli.github.io/animated-hangman-game/)**
+
+---
+
+
 # Features
 
 - Random word selection
@@ -81,7 +90,7 @@ animated-hangman-game/
 ├── styles.css
 ├── index.js
 ├── words.en.js
-├── assets/
+├── assests/
 │   ├── preview.png
 │   ├── win-screen.png
 │   └── lose-screen.png
