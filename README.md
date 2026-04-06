@@ -24,13 +24,13 @@ The game selects a random word from a predefined word list and updates the inter
 ## Preview
 
 ### Game Screen
-![Game Screen](assets/preview.png)
+![Game Screen](assests/preview.png)
 
 ### Win Screen
-![Win Screen](assets/win-screen.png)
+![Win Screen](assests/win-screen.png)
 
 ### Lose Screen
-![Lose Screen](assets/lose-screen.png)
+![Lose Screen](assests/lose-screen.png)
 
 
 
